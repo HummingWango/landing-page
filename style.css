@@ -174,3 +174,16 @@ button {
     border: 2px solid white;
     font-weight: 700;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #1f2937;
+}
+
+.footer .text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
