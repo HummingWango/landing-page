@@ -67,14 +67,15 @@ button {
 }
 
 .intro .image {
-    min-width: 700px;
-    min-height: 300px;
+    width: 700px;
+    height: 300px;
     margin-left: 100px;
     background-color: rgb(138, 138, 138);
     color: #e5e7eb;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1;
 }
 
 .info {
